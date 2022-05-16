@@ -1,0 +1,4 @@
+data/YOLO_Mask/score
+data/without_mask
+data/with_mask
+data/source
